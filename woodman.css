@@ -166,8 +166,8 @@ a{
 
 #footer{
     font-size: 12px;
- position: absolute;
-  bottom: 0;
+/* position: absolute;
+  bottom: 0;*/
     width: 100%;
     border-top: 2px solid #6684a3;
    
